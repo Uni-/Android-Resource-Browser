@@ -1,0 +1,17 @@
+bin/
+gen/
+.settings/
+local.properties
+.metadata
+.classpath
+.loadpath
+.cproject
+.buildpath
+*~
+*.*~
+*.swp
+*.launch
+*.class
+*.dex
+*.apk
+*.ap_
